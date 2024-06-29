@@ -15,7 +15,7 @@ AtliQ Hardware is one of the major computer hardware manufactures in india, with
   1. CTE (Common Table Expressions): Writing recursive queries for complex data retrieval.
   2. Sub Queries.
   3. Window Functions
-  4. Min and Max functons
+  4. Min and Max functions
   5. Group By and Order By
 
    ### Soft Skills
